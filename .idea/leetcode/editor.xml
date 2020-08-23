@@ -3,6 +3,7 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+<<<<<<< HEAD
         <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[155]最小栈.java">
           <value>
             <LeetcodeEditor>
@@ -27,6 +28,8 @@
             </LeetcodeEditor>
           </value>
         </entry>
+=======
+>>>>>>> origin/master
         <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[232]用栈实现队列.java">
           <value>
             <LeetcodeEditor>
@@ -35,6 +38,7 @@
             </LeetcodeEditor>
           </value>
         </entry>
+<<<<<<< HEAD
         <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[42]接雨水.java">
           <value>
             <LeetcodeEditor>
@@ -43,6 +47,8 @@
             </LeetcodeEditor>
           </value>
         </entry>
+=======
+>>>>>>> origin/master
         <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[496]下一个更大元素 I.java">
           <value>
             <LeetcodeEditor>
@@ -51,6 +57,7 @@
             </LeetcodeEditor>
           </value>
         </entry>
+<<<<<<< HEAD
         <entry key="$USER_HOME$/AppData/Local/Temp/leetcode/editor/cn/[682]棒球比赛.java">
           <value>
             <LeetcodeEditor>
@@ -59,6 +66,8 @@
             </LeetcodeEditor>
           </value>
         </entry>
+=======
+>>>>>>> origin/master
       </map>
     </option>
   </component>
